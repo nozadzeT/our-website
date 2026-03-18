@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>I love you</title>
+<link rel="shortcut icon" href="download.avif" type="image/x-icon">
+<meta name="viewport">
+<style>
+body {
+  margin: 0;
+  background: url('DSC_0179.JPG') no-repeat center center fixed;
+  background-size: cover;
+}
+.spaced-text {
+  margin-top: 50px;
+  margin-left: 20px;
+  text-align: center;
+}
+.our-link {
+  color: rgb(3, 99, 3);
+  font-size: 37px; 
+  font-family: cursive;
+  text-decoration: underline dotted white 3px;
+  text-underline-offset: 4px;
+}
+</style>
+</head>
+
+<body>
+<h2 class="spaced-text">
+   <a href="ourmoments.html" class="our-link">OUR MOMENTS</a> 
+</h2>
+</body>
+</html>
